@@ -1,0 +1,1 @@
+# pan_azure_arm_template
